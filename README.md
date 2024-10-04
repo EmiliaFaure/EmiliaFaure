@@ -36,8 +36,10 @@ Mirá mi PORFOLIO https://emiliafaure.github.io
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=apple,github,html,css,js,py,vscode,figma,ps,ai,pr,ae" />
-
+<br>
 </div>
+
+  <hr>
   
 ## Contactame
 
@@ -68,7 +70,6 @@ Mirá mi PORFOLIO https://emiliafaure.github.io
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
--->     
 
     
 <p align="center">
@@ -76,5 +77,6 @@ Mirá mi PORFOLIO https://emiliafaure.github.io
     alt="example" />
 </p>
 
+-->     
 
                                                                                   
