@@ -17,8 +17,9 @@ Here are some ideas to get you started:
   <link rel="icon" href="/Logo.ico" type="ico">
 <div align="center">
   
-<h1 align="center">Hola, soy <a href="https://emiliafaure.github.io/" target="_blank" rel="noopenen noreferrer">Emilia Faure</a> 👋</h1>
+<h1 align="center"> Hola, soy Emilia Faure 👋 </h1>
 </div>
+
 <img src="/Banner.png">
 
 
@@ -26,8 +27,10 @@ Here are some ideas to get you started:
 
 Estudié la carrera de diseño de imagen y sonido en la Universidad de Buenos Aires. En 2009, decidí convertirme en editora audiovisual independiente. Desde entonces, he trabajado como freelancer dando vida a diversas piezas audiovisuales y como asistente de post-producción en largometrajes. Actualmente, estudio Full Stack y Diseño UX/UI, ampliando mis habilidades y aplicando mi creatividad en el desarrollo de aplicaciones web.
 
-
 <br>
+Mirá mi PORFOLIO https://emiliafaure.github.io
+<hr>
+
 
 <h2> Lenguajes y Herramientas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
