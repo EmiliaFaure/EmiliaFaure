@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://emiliafaure.github.io/">Emilia Faure</a> 👋</h1>
+<h3>Editota Audiovisual / Diseñadora UX-UI</h3>
 </div>
-<img src="">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFsyCL9vKD-1Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722101795830?e=1733356800&v=beta&t=ziTyJJFeJi9zt5ZFOq64k820Q18OzFvduwh67WCiHrk">
 
 
 ## Sobre mi
