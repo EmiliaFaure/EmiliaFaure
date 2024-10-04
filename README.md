@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <link rel="icon" href="/Logo.ico" type="ico">
 <div align="center">
   
-<h1 align="center">Hola, soy <a href="https://emiliafaure.github.io/">Emilia Faure</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://emiliafaure.github.io/" target="_blank" rel="noopenen noreferrer">Emilia Faure</a> 👋</h1>
 </div>
 <img src="/Banner.png">
 
