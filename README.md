@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **EmiliaFaure/EmiliaFaure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://emiliafaure.github.io/">Emilia Faure</a> 👋</h1>
+</div>
+<img src="">
+
+
+## Sobre mi
+
+Estudié la carrera de diseño de imagen y sonido en la Universidad de Buenos Aires. En 2009, decidí convertirme en editora audiovisual independiente. Desde entonces, he trabajado como freelancer dando vida a diversas piezas audiovisuales y como asistente de post-producción en largometrajes. Actualmente, estudio Full Stack y Diseño UX/UI, ampliando mis habilidades y aplicando mi creatividad en el desarrollo de aplicaciones web.
+
+<br>
+
+
+
+
+                                                                                  
