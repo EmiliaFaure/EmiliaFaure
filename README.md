@@ -36,10 +36,12 @@ Mirá mi PORFOLIO https://emiliafaure.github.io
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=apple,github,html,css,js,py,vscode,figma,ps,ai,pr,ae" />
+  
 <br>
+
 </div>
 
-  <hr>
+<hr>
   
 ## Contactame
 
@@ -60,10 +62,7 @@ Mirá mi PORFOLIO https://emiliafaure.github.io
 
 
 
-<br>
-
-<img src="">
-
+<img src="/Firma_2.jpg">
 
 <!--gif
 <div align=center>
