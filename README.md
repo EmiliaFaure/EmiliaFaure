@@ -26,6 +26,46 @@ Here are some ideas to get you started:
 
 Estudié la carrera de diseño de imagen y sonido en la Universidad de Buenos Aires. En 2009, decidí convertirme en editora audiovisual independiente. Desde entonces, he trabajado como freelancer dando vida a diversas piezas audiovisuales y como asistente de post-producción en largometrajes. Actualmente, estudio Full Stack y Diseño UX/UI, ampliando mis habilidades y aplicando mi creatividad en el desarrollo de aplicaciones web.
 
+
 <br>
+
+<h2> Lenguajes y Herramientas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+  
+## Contactame
+
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/emilia-faure/" target="_blank"  rel="noopener noreferrer">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
+  </a>
+  <a href="mailto:emiliafaure@gmail.com" target="top" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
+  </a>
+</div>
+
+<br>
+
+
+</div>
+
+
+
+<br>
+
+
+
+<!--gif-->     
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
+
+    
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 
                                                                                   
