@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hola, soy Emilia Faure 👋 </h1>
 </div>
 
-<img src="/Banner4.png">
+<img src="/Banner_5.jpg">
 
 
 ## Sobre mi
