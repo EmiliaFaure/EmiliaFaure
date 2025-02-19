@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## Sobre mi
 
-Estudié la carrera de diseño de imagen y sonido en la Universidad de Buenos Aires. En 2009, decidí convertirme en editora audiovisual independiente. Desde entonces, he trabajado como freelancer dando vida a diversas piezas audiovisuales y como asistente de post-producción en largometrajes. Actualmente, estudio Full Stack y Diseño UX/UI, ampliando mis habilidades y aplicando mi creatividad en el desarrollo de aplicaciones web.
+Estudié la carrera de Diseño de Imagen y Sonido en la Universidad de Buenos Aires (UBA). Desde 2009, trabajo como editora audiovisual independiente, dando vida a diversas piezas audiovisuales, y como asistente de postproducción en largometrajes. Me especialicé en Diseño UX/UI y actualmente continúo ampliando mis habilidades estudiando Front-End Development, aplicando mi creatividad en el desarrollo de aplicaciones web.
 
 <br>
 Mirá mi PORFOLIO https://emiliafaure.github.io
