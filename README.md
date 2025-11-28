@@ -19,9 +19,9 @@ Here are some ideas to get you started:
   
 <h1 align="center"> Hola, soy Emilia Faure 👋 </h1>
 </div>
-
+<!---Icono
 <img src="/Banner_5.jpg">
-
+-->
 
 ## Sobre mi
 
