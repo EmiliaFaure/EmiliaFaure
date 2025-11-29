@@ -51,6 +51,7 @@ Mirá mi PORFOLIO https://emiliafaure.github.io
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
   </a>
   <a href="mailto:emiliafaure@gmail.com" target="top" rel="noopener noreferrer">
+    
   <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
   </a>
 </div>
@@ -60,10 +61,10 @@ Mirá mi PORFOLIO https://emiliafaure.github.io
 
 </div>
 
-
+<!---Icono
 
 <img src="/Firma_2.jpg">
-
+-->
 <!--gif
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
