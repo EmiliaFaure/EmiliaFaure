@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 <h1 align="center"> Hola, soy Emilia Faure 👋 </h1>
+<h3>Diseñadora UX/UI y editora audiovisual</h3>
 </div>
 <!---Icono
 <img src="/Banner_5.jpg">
