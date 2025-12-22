@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 ## Sobre mi
 
-Estudié la carrera de Diseño de Imagen y Sonido en la Universidad de Buenos Aires. Desde 2009, trabajo como editora audiovisual independiente, dando vida a diversas piezas audiovisuales, y como asistente de postproducción en largometrajes. Actualmente me especializo en Diseño UX/UI, integrando mi experiencia audiovisual con una mirada centrada en las personas. Me interesa crear experiencias digitales claras, atractivas y funcionales, combinando creatividad, investigación y diseño para aportar valor real a los usuarios.
+Estudié Diseño de Imagen y Sonido en la Universidad de Buenos Aires. Desde 2009 trabajo como editora audiovisual independiente, creando piezas para diversos formatos y como asistente de postproducción en largometrajes. 
+Actualmente me especializo en Diseño UX/UI, integrando mi experiencia audiovisual con una mirada estratégica y centrada en las necesidades de los usuarios.
 
 <br>
 Mirá mi PORFOLIO https://emiliafaure.github.io
