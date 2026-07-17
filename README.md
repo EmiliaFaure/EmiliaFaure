@@ -30,7 +30,7 @@ Estudié Diseño de Imagen y Sonido en la Universidad de Buenos Aires. Desde 200
 Actualmente me especializo en Diseño UX/UI, integrando mi experiencia audiovisual con una mirada estratégica y centrada en las necesidades de los usuarios.
 
 <br>
-Mirá mi PORFOLIO https://emiliafaure.github.io
+Mirá mi PORFOLIO https://dribbble.com/EmiliaFaure
 <hr>
 
 
